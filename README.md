@@ -1,6 +1,6 @@
 ![full-stack-development](https://user-images.githubusercontent.com/105595540/212469547-27e4c290-983d-4544-8266-60efd135ae41.gif)
 <h1 align="center">Hi 👋, I'm Anurag Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragcoder9026&label=Profile%20views&color=0e75b6&style=flat" alt="anuragcoder9026" /> </p>
 
